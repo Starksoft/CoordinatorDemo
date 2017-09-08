@@ -1,0 +1,82 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+out/
+
+# Local configuration file (sdk path, etc)
+project.properties
+gradle.properties
+local.properties
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+.classpath
+.settings/
+.loadpath
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
+
+# IDEA files
+lint.xml
+.idea/
+*.iml
+
+#proguard
+proguard-project.txt
+proguard-logs/
+
+# gradle files
+.gradle/
+build/
+
+# crashlytics
+superjobClient/src/main/res/values/com_crashlytics_export_strings.xml
+*/com_crashlytics_export_strings.xml
+*/crashlytics-build.properties
+
+# mac files
+.DS_Store
+
+spoon-output/
+
+SuperJobLibrary/
+
+ajcore*
+
+*.hprof
